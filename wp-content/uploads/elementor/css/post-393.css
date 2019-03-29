@@ -1,0 +1,30 @@
+.elementor-393 .elementor-element.elementor-element-22eb697{padding:3em 0em 6em 0em;}.elementor-393 .elementor-element.elementor-element-7918c1e:not(.elementor-motion-effects-element-type-background), .elementor-393 .elementor-element.elementor-element-7918c1e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#eeeeee;}.elementor-393 .elementor-element.elementor-element-7918c1e{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:3em 0em 3em 0em;}.elementor-393 .elementor-element.elementor-element-7918c1e > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-393 .elementor-element.elementor-element-33c04d9{padding:0px 0px 0px 0px;}.elementor-393 .elementor-element.elementor-element-2bcfbf0{margin-top:0px;margin-bottom:0px;}.elementor-393 .elementor-element.elementor-element-cd5390f:not(.elementor-motion-effects-element-type-background) > .elementor-element-populated, .elementor-393 .elementor-element.elementor-element-cd5390f > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://ithinkanidea.wpengine.com/wp-content/uploads/action-adult-advice-1120344.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-393 .elementor-element.elementor-element-cd5390f > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-393 .elementor-element.elementor-element-cd5390f > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-393 .elementor-element.elementor-element-375af4a .elementor-spacer-inner{height:50px;}.elementor-393 .elementor-element.elementor-element-3d3df3b > .elementor-element-populated{padding:1em 1em 1em 1em;}.elementor-393 .elementor-element.elementor-element-2cf72eb .elementor-text-editor{text-align:left;}@media(min-width:768px){.elementor-393 .elementor-element.elementor-element-cd5390f{width:50.031%;}.elementor-393 .elementor-element.elementor-element-3d3df3b{width:49.969%;}}/* Start custom CSS for section, class: .elementor-element-7918c1e */.elementor-393 .elementor-element.elementor-element-7918c1e .testimonial {
+    background: #FFF; 
+    padding: 1em; 
+    margin-bottom: 1em; 
+    position: relative;
+    padding-bottom: 130px;
+}
+.elementor-393 .elementor-element.elementor-element-7918c1e .testimonial .inner {
+    background: #FFF;
+    padding: 0;
+}
+.elementor-393 .elementor-element.elementor-element-7918c1e .testimonial .photo {
+    bottom: 20px;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+}
+.elementor-393 .elementor-element.elementor-element-7918c1e .testimonial .client {
+    font-weight: bold;
+    position: absolute;
+    bottom: 20px;
+    left: 130px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.elementor-393 .elementor-element.elementor-element-7918c1e .testimonial .client br {
+    display: none;
+}/* End custom CSS */

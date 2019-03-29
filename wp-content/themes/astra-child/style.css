@@ -1,0 +1,35 @@
+/**
+Theme Name: I Think An Idea
+Author: Marketably
+Author URI: https://www.marketably.biz/
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: astra
+*/
+#contact-page-custom h3 .wpseo-business-name {
+    font-size: 24px;
+}
+#footer-custom .wpseo-location h3 {
+    font-size:17px !important;
+    line-height: 1.85 !important;
+    color: rgba(255,255,255,0.65) !important;
+}
+#footer-custom #wpseo_location- {
+    font-size: 15px !important;
+    line-height: 1.85 !important;
+}
+.border .elementor-animation-grow.attachment-full.size-full {
+    border: 2px #ddd solid;
+    padding: 3px;
+}
+.border .elementor-image img, .border .slick-slide-image{
+    border: 2px #ddd solid;
+    padding: 5px;
+}
+@media (max-width:768px)
+{
+.elementor-row {
+    padding-left: 10px;
+	padding-right: 10px;}
+}
